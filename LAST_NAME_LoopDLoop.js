@@ -15,6 +15,7 @@ for(var k = 0; k < 10; k++){
     }
 }
 
+//stretch 1
 for(var k = 0; k < 10; k++){
     if(k/3 == 1 && k !=0 && v > 9){
     c +=1
